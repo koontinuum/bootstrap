@@ -1,0 +1,165 @@
+.row div{
+    align-items: center;
+    text-align: center;
+    height: 50px;
+    margin: 0 auto;
+}
+.row .col h1 {
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+}
+.row .col{
+    font-size: 18px;
+line-height: 22px;
+color: #828282;
+margin-top: 30px;
+}
+.border{
+    border: 1px solid #828282;
+}
+.row .col-4 h1{
+    font-size: 47.3392px;
+line-height: 59px;
+color: #070707;
+}
+.row div{
+    margin-top: 40px;
+    
+}
+.row .col-7 p{
+    font-size: 18px;
+line-height: 22px;
+color: #070707;
+margin-top: 25px;
+}
+.row .selfie{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.row .self{
+    margin-bottom: 100px;
+    text-align: center;
+    background-color: #F6F6F6;
+    width: 100%;
+    height: 100%;
+}
+.row .self p{
+    margin-top: 40px;
+    font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #070707;
+}
+.row .self p, p, p{
+    margin-bottom: 100px;
+}
+.row .self h1{
+    margin-top: 120px;
+    font-size: 34px;
+line-height: 42px;
+text-align: center;
+color: #070707;
+}
+.skills .container{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+.row .skills h1{
+    font-size: 34px;
+line-height: 42px;
+text-align: center;
+color: #070707;
+}
+.row .skills p{
+    font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #070707;
+margin-top: 69px;
+}
+.row .col-3 .skill{
+    margin-top: 120px;
+    margin-bottom: 24px;
+}
+.row .col-3 .skill, p{
+    font-size: 14px;
+line-height: 17px;
+text-align: center;
+color: #828282;
+}
+.row .col-3 .stars{
+    margin-top: 10px;
+}
+.container .row h2{
+    margin-top: 450px;
+    margin-bottom: 50px;
+    font-size: 34px;
+line-height: 42px;
+text-align: center;
+color: #070707;
+}
+iframe:focus {
+    outline: none;
+    align-items: center;
+}
+iframe[seamless] {
+    display: block;
+} 
+.container .row p{
+    font-size: 18px;
+line-height: 22px;
+text-align: center;
+text-decoration-line: none;
+color: #070707;
+}
+.empty{
+    height: 40vh;
+    width: 100%;
+    margin-top: 110px;
+}
+.port{
+    text-align: center;
+    width: 100%;
+    background-color: #F6F6F6;
+    height: 100vh;
+}
+.port .col-12 h1{
+    font-size: 34px;
+line-height: 42px;
+text-align: center;
+color: #070707;
+}
+.row div a{
+    text-decoration: none;
+    color: #070707;
+}
+.row div  a:hover {
+    color: rgb(41, 41, 228);
+    text-decoration: none;
+}
+.port p{
+    font-size: 18px;
+line-height: 22px;
+text-align: center;
+text-decoration-line: underline;
+color: #070707;
+}
+.port1{
+    margin-top: 40px;
+}
+.contacts .row h1{
+    margin-top: 114px;
+    font-size: 34px;
+line-height: 42px;
+text-align: center;
+color: #070707;
+}
+.contacts .row p{
+    margin-top: 20.3px;
+    font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #070707;
+}
